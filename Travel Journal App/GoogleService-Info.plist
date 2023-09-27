@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>502129170632-dg8fjjur9a2turatus36us44dhsp9h0s.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.502129170632-dg8fjjur9a2turatus36us44dhsp9h0s</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBxOvDxok8Oq1YSp8rOoNaweJdpUeO6ScY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>502129170632</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>Shubham-Srivastava.Travel-Journal-App</string>
+	<key>PROJECT_ID</key>
+	<string>travel-journal-app-e1c92</string>
+	<key>STORAGE_BUCKET</key>
+	<string>travel-journal-app-e1c92.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:502129170632:ios:9ee8522948a8ad12e96dfd</string>
+</dict>
+</plist>

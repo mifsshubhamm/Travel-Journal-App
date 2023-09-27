@@ -1,0 +1,6 @@
+framework module Pods_Travel_Journal_App_Travel_Journal_AppUITests {
+  umbrella header "Pods-Travel Journal App-Travel Journal AppUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

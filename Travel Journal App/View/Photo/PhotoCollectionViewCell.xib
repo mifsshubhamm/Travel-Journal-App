@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="21701" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_12" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="21679"/>
+        <capability name="Named colors" minToolsVersion="9.0"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" reuseIdentifier="PhotoCollectionViewCell" id="gTV-IL-0wX" customClass="PhotoCollectionViewCell" customModule="Travel_Journal_App" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="281" height="289"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
+                <rect key="frame" x="0.0" y="0.0" width="281" height="289"/>
+                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                <subviews>
+                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="9Zi-zH-tMn">
+                        <rect key="frame" x="0.0" y="17" width="281" height="238"/>
+                        <color key="backgroundColor" name="BlueColor_50"/>
+                        <color key="tintColor" name="BlueColor"/>
+                    </imageView>
+                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="srL-7K-c44">
+                        <rect key="frame" x="235" y="0.0" width="50" height="34.333333333333336"/>
+                        <color key="tintColor" red="0.66666668650000005" green="0.02495269592" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                        <state key="normal" title="Button"/>
+                        <buttonConfiguration key="configuration" style="plain" image="x.circle.fill" catalog="system"/>
+                        <connections>
+                            <action selector="crossButton:" destination="gTV-IL-0wX" eventType="touchUpInside" id="hEr-bn-oZc"/>
+                        </connections>
+                    </button>
+                </subviews>
+            </view>
+            <viewLayoutGuide key="safeArea" id="ZTg-uK-7eu"/>
+            <constraints>
+                <constraint firstItem="srL-7K-c44" firstAttribute="top" secondItem="gTV-IL-0wX" secondAttribute="top" id="OBQ-ss-qOu"/>
+                <constraint firstItem="ZTg-uK-7eu" firstAttribute="bottom" secondItem="9Zi-zH-tMn" secondAttribute="bottom" id="SXe-lK-kTZ"/>
+                <constraint firstItem="9Zi-zH-tMn" firstAttribute="leading" secondItem="ZTg-uK-7eu" secondAttribute="leading" id="V7I-WR-Pjr"/>
+                <constraint firstItem="9Zi-zH-tMn" firstAttribute="top" secondItem="srL-7K-c44" secondAttribute="top" constant="17" id="nPr-Ft-AgA"/>
+                <constraint firstAttribute="trailing" secondItem="srL-7K-c44" secondAttribute="trailing" constant="-4" id="tHv-SH-TB9"/>
+                <constraint firstItem="ZTg-uK-7eu" firstAttribute="trailing" secondItem="9Zi-zH-tMn" secondAttribute="trailing" id="zs2-q6-TbA"/>
+            </constraints>
+            <size key="customSize" width="281" height="289"/>
+            <connections>
+                <outlet property="crossButtonOutlet" destination="srL-7K-c44" id="ir4-bL-CpN"/>
+                <outlet property="photos" destination="9Zi-zH-tMn" id="q4t-Gd-uvG"/>
+            </connections>
+            <point key="canvasLocation" x="212.97709923664121" y="103.87323943661973"/>
+        </collectionViewCell>
+    </objects>
+    <resources>
+        <image name="x.circle.fill" catalog="system" width="128" height="123"/>
+        <namedColor name="BlueColor">
+            <color red="0.0" green="0.75300002098083496" blue="0.74900001287460327" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </namedColor>
+        <namedColor name="BlueColor_50">
+            <color red="0.85900002717971802" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </namedColor>
+    </resources>
+</document>
