@@ -23,13 +23,23 @@ User Profile: Create a user profile section where users can manage their account
 
 ### Login Screen
 <img src="screenshots/Login.png" width="30%" />
+
 ### Home Screen
+
 <img src="screenshots/Home.png" width="30%" />
+
 ### Post Details Screen
+
 <img src="screenshots/PostDetail.png" width="30%" />
+
 ### Add Post Screen
+
 <img src="screenshots/AddPost.png" width="30%" />
+
 ### Map View
+
 <img src="screenshots/Map.png" width="30%" />
+
 ### Profile Screen
+
 <img src="screenshots/Profile.png" width="30%" />
