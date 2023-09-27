@@ -33,3 +33,11 @@ User Profile: Create a user profile section where users can manage their account
 ![](https://firebasestorage.googleapis.com/v0/b/travel-journal-app-e1c92.appspot.com/o/photos%2Fmap.png?alt=media&token=fb77b63c-cfbb-43c9-830e-7104ef435030)
 ## Profile Screen
 ![](https://firebasestorage.googleapis.com/v0/b/travel-journal-app-e1c92.appspot.com/o/photos%2Fprofile.png?alt=media&token=23be2691-60fd-4d5f-8118-5451eccb7546)
+
+### Screen Shots
+<img src="screenshots/Login.png" width="30%" />
+<img src="screenshots/Home.png" width="30%" />
+<img src="screenshots/PostDetail.png" width="30%" />
+<img src="screenshots/AddPost.png" width="30%" />
+<img src="screenshots/Map.png" width="30%" />
+<img src="screenshots/Profile.png" width="30%" />
