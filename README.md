@@ -3,7 +3,7 @@
 
 The Travel Journal app allows users to document their travel experiences by creating digital journals for each trip they take. Users can record their memories, add photos, and keep track of places they visited during their trips. The app should provide a user-friendly interface to manage multiple travel journals and organize them effectively.
 
-##Key Features:
+## Key Features:
 
 User Authentication: Implement user registration and login functionality using Firebase Authentication to allow users to create and access their travel journals.
 
