@@ -19,25 +19,17 @@ Search and Filters: Implement search functionality to allow users to search for 
 User Profile: Create a user profile section where users can manage their account settings, update profile information, and view their travel statistics (e.g., total trips taken, countries visited, etc.).
 
 
-# App Images
+## App Images
 
-## Login Screen
-![](https://firebasestorage.googleapis.com/v0/b/travel-journal-app-e1c92.appspot.com/o/photos%2FSimulator%20Screenshot%20-%20iPhone%2014%20Pro%20-%202023-09-27%20at%2000.38.24.png?alt=media&token=99ca4571-17c0-498e-b7bc-58cbd3b6eb84)
-## Home Screen
-![](https://firebasestorage.googleapis.com/v0/b/travel-journal-app-e1c92.appspot.com/o/photos%2FSimulator%20Screenshot%20-%20iPhone%2014%20Pro%20-%202023-09-27%20at%2000.38.57.png?alt=media&token=7ffa191a-2c4a-4bcc-81cd-547ec7268e81)
-## Post Details Screen
-![](https://firebasestorage.googleapis.com/v0/b/travel-journal-app-e1c92.appspot.com/o/photos%2FSimulator%20Screenshot%20-%20iPhone%2014%20Pro%20-%202023-09-27%20at%2000.39.15.png?alt=media&token=30a972c8-3fb9-431b-97d5-9e77d90073af)
-## Add Post Screen
-![](https://firebasestorage.googleapis.com/v0/b/travel-journal-app-e1c92.appspot.com/o/photos%2FAdd_Post.png?alt=media&token=9fe23ee9-98ec-487e-a9b2-9b15f0a921fe)
-## Map View
-![](https://firebasestorage.googleapis.com/v0/b/travel-journal-app-e1c92.appspot.com/o/photos%2Fmap.png?alt=media&token=fb77b63c-cfbb-43c9-830e-7104ef435030)
-## Profile Screen
-![](https://firebasestorage.googleapis.com/v0/b/travel-journal-app-e1c92.appspot.com/o/photos%2Fprofile.png?alt=media&token=23be2691-60fd-4d5f-8118-5451eccb7546)
-
-### Screen Shots
+### Login Screen
 <img src="screenshots/Login.png" width="30%" />
+### Home Screen
 <img src="screenshots/Home.png" width="30%" />
+### Post Details Screen
 <img src="screenshots/PostDetail.png" width="30%" />
+### Add Post Screen
 <img src="screenshots/AddPost.png" width="30%" />
+### Map View
 <img src="screenshots/Map.png" width="30%" />
+### Profile Screen
 <img src="screenshots/Profile.png" width="30%" />
